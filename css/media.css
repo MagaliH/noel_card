@@ -1,0 +1,99 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .village{
+    top: 0px;
+    left: 107px;
+    width: 80%;
+  }
+
+  .fetes{
+    left: 390px;
+    top: 510px;
+    width: 25%;
+  }
+
+  .joy{
+    left: 354px;
+    top: 293px;
+    width: 32%;
+  }
+  #textAcs, #textAcs1{
+    display: block;
+  }
+  #textAcs{
+    position: absolute;
+    left: 305px;
+    top: 20px;
+  }
+
+  #textAcs1{
+    position: absolute;
+    left: 220px;
+    top: 60px;
+  }
+
+  #acsVesoul, #acsV{
+    display: none;
+  }
+
+  #houxD{
+    right: 10px;
+    top: -25px;
+  }
+
+  #houxG{
+    left: 10px;
+    top: -25px;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 991px){
+  #acsVesoul, #acsV{
+    display: none;
+  }
+
+  .village{
+    left:10px;
+    top: 180px;
+  }
+
+  .joy{
+    left: 317px;
+    top: 445px;
+    width: 40%;
+  }
+
+  .fetes{
+    width: 30%;
+    left: 370px;
+    top: 695px;
+  }
+
+  #houxG, #houxD{
+    display: none;
+  }
+
+  /*#textAcs, #textAcs1{
+    display: block;
+  }*/
+
+  #houxH{
+    display: block;
+    position: absolute;
+  }
+
+  /*#textAcs{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+  }
+
+  #textAcs1{
+    position: absolute;
+    top: 90px;
+    left: 200px;
+  }*/
+}
+
+@media screen and (max-width: 600px){
+
+}
